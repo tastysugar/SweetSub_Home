@@ -6,24 +6,25 @@ SweetSub
 
 ### 动画剧集
 
-| 英文名                                             | 中文名                    | 日文名                                   | 备注                                                         |
-| -------------------------------------------------- | ------------------------- | ---------------------------------------- | ------------------------------------------------------------ |
-| Flip Flappers                                      | 轻拍翻转小魔女            | フリップフラッパーズ                     | 13 集正片 / [BD 字幕](https://github.com/SweetSub/SweetSub-source/tree/master/Flip%20Flappers) |
-| Little Witch Academia (2017)                       | 小魔女学园 (2017)         | リトルウィッチアカデミア (2017)          | WEB 版字幕 （已弃坑）                                        |
-| Made in Abyss (S1)                                 | 来自深渊 (第一季)         | メイドインアビス (S1)                    | 13 集正片 + 制作纪实（[B 站](https://www.bilibili.com/video/av19676043)） / [BD 字幕](https://github.com/SweetSub/SweetSub-source/tree/master/Made%20in%20Abyss) |
-| DARLING in the FRANXX                              | 比翼之吻                  | ダーリン・イン・ザ・フランキス           | 24 集正片 + Web 预告 / [BD 字幕](https://github.com/SweetSub/SweetSub-source/tree/master/DARLING%20in%20the%20FRANXX) |
-| Boogiepop Phantom                                  | 不吉波普不笑幻影死神      | ブギーポップは笑わない Boogiepop Phantom | 12 集 对应 R2J 版 DVD / [字幕](https://github.com/SweetSub/SweetSub-source/tree/master/Boogiepop%20Phantom) / B 站 [无注释版](https://www.bilibili.com/video/av45135917) [注释版](https://www.bilibili.com/video/av45179572/) |
-| Sarazanmai                                         |                           | さらざんまい                             | 11 集 [BD 字幕](https://github.com/SweetSub/SweetSub-source/tree/master/Sarazanmai) |
-| Magia Record: Puella Magi Madoka Magica Side Story | 魔法纪录 魔法少女小圆外传 | マギアレコード 魔法少女まどか☆マギカ外伝 | 13 集正片 + 魔法报告SP [BD 版字幕](https://github.com/SweetSub/SweetSub-source/tree/master/Magia%20Record) |
-| ID: INVADED                                        |                           | イド：インヴェイデッド                   | 13 集 [BD 字幕](https://github.com/SweetSub/SweetSub-source/tree/master/ID%20INVADED) |
-| Great Pretender                                    | 大欺诈师                  | グレートプリテンダー                     | 23 集 [WEB 版字幕](https://github.com/SweetSub/SweetSub-source/tree/master/GREAT%20PRETENDER)（未完） |
-| Akudama Drive                                      | 恶棍 DRIVE                | アクダマドライブ                         | [WEB 版字幕](https://github.com/SweetSub/SweetSub-source/tree/master/Akudama%20Drive) （已弃坑） |
-| Horimiya                                           | 堀与宫村                  | ホリミヤ                                 | [WEB 版字幕](https://github.com/SweetSub/SweetSub-source/tree/master/Horimiya)（未完） |
-| Wonder Egg Priority                                | 奇蛋物语                  | ワンダーエッグ・プライオリティ           | [WEB 版字幕](https://github.com/SweetSub/SweetSub-source/tree/master/Wonder%20Egg%20Priority)（未完） |
-| WIXOSS DIVA(A)LIVE                                 |                           |                                          | [WEB 版字幕](https://github.com/SweetSub/SweetSub-source/tree/master/WIXOSS)（未完） |
-| VLADLOVE                                           |                           | ぶらどらぶ                               | [WEB 版字幕](https://github.com/SweetSub/SweetSub-source/tree/master/VLADLOVE)（未完） |
-| Super Cub                                          | 本田小狼与我              | スーパーカブ                             | [WEB 版字幕](https://github.com/SweetSub/SweetSub-source/tree/master/Super%20Cub)（未完） |
-| Bishounen Tanteidan                                | 美少年侦探团              | 美少年探偵団                             | [WEB 版字幕](https://github.com/SweetSub/SweetSub-source/tree/master/Bishounen%20Tanteidan)（未完） |
+| 英文名                                                       | 中文名                                    | 日文名                                                       | 备注                                                         |
+| ------------------------------------------------------------ | ----------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Flip Flappers                                                | 轻拍翻转小魔女                            | フリップフラッパーズ                                         | 13 集正片 / [BD 字幕](https://github.com/SweetSub/SweetSub-source/tree/master/Flip%20Flappers) |
+| Little Witch Academia (2017)                                 | 小魔女学园 (2017)                         | リトルウィッチアカデミア (2017)                              | WEB 版字幕 （已弃坑）                                        |
+| Made in Abyss (S1)                                           | 来自深渊 (第一季)                         | メイドインアビス (S1)                                        | 13 集正片 + 制作纪实（[B 站](https://www.bilibili.com/video/av19676043)） / [BD 字幕](https://github.com/SweetSub/SweetSub-source/tree/master/Made%20in%20Abyss) |
+| DARLING in the FRANXX                                        | 比翼之吻                                  | ダーリン・イン・ザ・フランキス                               | 24 集正片 + Web 预告 / [BD 字幕](https://github.com/SweetSub/SweetSub-source/tree/master/DARLING%20in%20the%20FRANXX) |
+| Boogiepop Phantom                                            | 不吉波普不笑幻影死神                      | ブギーポップは笑わない Boogiepop Phantom                     | 12 集 对应 R2J 版 DVD / [字幕](https://github.com/SweetSub/SweetSub-source/tree/master/Boogiepop%20Phantom) / B 站 [无注释版](https://www.bilibili.com/video/av45135917) [注释版](https://www.bilibili.com/video/av45179572/) |
+| Sarazanmai                                                   |                                           | さらざんまい                                                 | 11 集 [BD 字幕](https://github.com/SweetSub/SweetSub-source/tree/master/Sarazanmai) |
+| Magia Record: Puella Magi Madoka Magica Side Story           | 魔法纪录 魔法少女小圆外传                 | マギアレコード 魔法少女まどか☆マギカ外伝                     | 13 集正片 + 魔法报告SP [BD 版字幕](https://github.com/SweetSub/SweetSub-source/tree/master/Magia%20Record) |
+| ID: INVADED                                                  |                                           | イド：インヴェイデッド                                       | 13 集 [BD 字幕](https://github.com/SweetSub/SweetSub-source/tree/master/ID%20INVADED) |
+| Great Pretender                                              | 大欺诈师                                  | グレートプリテンダー                                         | 23 集 [WEB 版字幕](https://github.com/SweetSub/SweetSub-source/tree/master/GREAT%20PRETENDER)（未完） |
+| Akudama Drive                                                | 恶棍 DRIVE                                | アクダマドライブ                                             | [WEB 版字幕](https://github.com/SweetSub/SweetSub-source/tree/master/Akudama%20Drive) （已弃坑） |
+| Horimiya                                                     | 堀与宫村                                  | ホリミヤ                                                     | [WEB 版字幕](https://github.com/SweetSub/SweetSub-source/tree/master/Horimiya)（未完） |
+| Wonder Egg Priority                                          | 奇蛋物语                                  | ワンダーエッグ・プライオリティ                               | [WEB 版字幕](https://github.com/SweetSub/SweetSub-source/tree/master/Wonder%20Egg%20Priority)（未完） |
+| WIXOSS DIVA(A)LIVE                                           |                                           |                                                              | [WEB 版字幕](https://github.com/SweetSub/SweetSub-source/tree/master/WIXOSS)（未完） |
+| VLADLOVE                                                     |                                           | ぶらどらぶ                                                   | [WEB 版字幕](https://github.com/SweetSub/SweetSub-source/tree/master/VLADLOVE)（未完） |
+| Super Cub                                                    | 本田小狼与我                              | スーパーカブ                                                 | [WEB 版字幕](https://github.com/SweetSub/SweetSub-source/tree/master/Super%20Cub)（未完） |
+| Bishounen Tanteidan                                          | 美少年侦探团                              | 美少年探偵団                                                 | [WEB 版字幕](https://github.com/SweetSub/SweetSub-source/tree/master/Bishounen%20Tanteidan)（未完） |
+| Magia Record: Puella Magi Madoka Magica Side Story 2nd Season | 魔法纪录 魔法少女小圆外传 第二季 觉醒前夜 | マギアレコード 魔法少女まどか☆マギカ外伝 2nd SEASON -覚醒前夜- | [WEB 版字幕](https://github.com/SweetSub/SweetSub-source/tree/master/Magia%20Record%20S2)（未完） |
 
 
 
